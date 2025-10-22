@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solite POS MVP</string>
+    <string name="products">Products</string>
+    <string name="cart">Cart</string>
+    <string name="orders">Orders</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="total">Total</string>
+    <string name="quantity">Quantity</string>
+    <string name="empty_cart">Cart is empty</string>
+    <string name="empty_orders">No orders yet</string>
+    <string name="order_success">Order placed successfully!</string>
+    <string name="order_history">Order History</string>
+</resources>
